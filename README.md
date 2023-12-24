@@ -1,4 +1,5 @@
 Unleashing Financial Insights with Power BI: A Data-Driven Exploration
+
 This project leverages the power of Power BI to unlock valuable insights from financial data. Dive into a world of interactive dashboards and compelling visualizations, revealing hidden trends and informing effective business decisions.
 
 Key Features:
@@ -6,6 +7,8 @@ Key Features:
 Data Transformation: Seamlessly cleanse, shape, and transform financial data for accurate analysis.
 Interactive Dashboards: Design visually appealing dashboards to track key metrics, spot trends, and drill down for deeper exploration.
 Financial Analysis: Perform essential financial calculations, analyze profitability, and assess financial health.
+
+
 Data Storytelling: Communicate complex financial concepts clearly and effectively through engaging visualizations and compelling narratives.
 Technologies Used:
 
